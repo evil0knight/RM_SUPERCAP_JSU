@@ -60,9 +60,8 @@ SUPERCAP 是专为 RoboMaster 机器人设计的超级电容功率控制器。�
 
 ---
 
-GitHub: [@evil0knight](https://github.com/evil0knight)
+![示例图片](./image/主原理图.jpg)
+![示例图片](./image/功率原理图.jpg)  
 
 ---
-
-*最后更新: 2025-10-19*
 > **本项目主要面向HR。**  
