@@ -1,0 +1,68 @@
+
+
+
+Breakpoint=D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Core/Src/Communication.cpp:102, State=BP_STATE_ON
+Breakpoint=D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Core/Src/Communication.cpp:104, State=BP_STATE_ON
+Breakpoint=D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Core/Src/PowerManager.cpp:59:5, State=BP_STATE_DISABLED
+Breakpoint=D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Core/Src/PowerManager.cpp:469:5, State=BP_STATE_DISABLED
+Breakpoint=D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Core/Src/PowerManager.cpp:627:5, State=BP_STATE_DISABLED
+Breakpoint=D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Core/Src/main.c:114, State=BP_STATE_ON
+GraphedExpression="tempData.outputDuty", Color=#e56a6f, Show=0
+GraphedExpression="debug_deltaVoltage", Color=#35792b, Show=0
+GraphedExpression="debug_deltaCurrent", Color=#769dda, Show=0
+GraphedExpression="SampleManager::adcVA.sum", Color=#b14f0d, Show=0
+OpenDocument="main.c", FilePath="D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Core/Src/main.c", Line=64
+OpenDocument="startup_stm32f334x8_SuperCap.s", FilePath="D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/startup_stm32f334x8_SuperCap.s", Line=58
+OpenDocument="PowerManager.cpp", FilePath="D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Core/Src/PowerManager.cpp", Line=74
+OpenDocument="core_cm4.h", FilePath="D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Drivers/CMSIS/Include/core_cm4.h", Line=1680
+OpenDocument="stm32f3xx_hal_tim.c", FilePath="D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_tim.c", Line=297
+OpenDocument="stm32f3xx_hal_cortex.c", FilePath="D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_cortex.c", Line=190
+OpenDocument="tim.c", FilePath="D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Core/Src/tim.c", Line=154
+OpenDocument="stm32f3xx_it.c", FilePath="D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Core/Src/stm32f3xx_it.c", Line=85
+OpenDocument="dma.c", FilePath="D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Core/Src/dma.c", Line=15
+OpenDocument="SuperCap.cpp", FilePath="D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Core/Src/SuperCap.cpp", Line=25
+OpenDocument="IncrementalPID.cpp", FilePath="D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Core/Src/IncrementalPID.cpp", Line=13
+OpenDocument="stm32f3xx_hal.c", FilePath="D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal.c", Line=349
+OpenDocument="Communication.cpp", FilePath="D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Core/Src/Communication.cpp", Line=55
+OpenDocument="Buzzer.hpp", FilePath="D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Core/Inc/Buzzer.hpp", Line=25
+OpenDocument="Calibration.hpp", FilePath="D:/RM/xiang_gang_ke_ji/SuperCapacitorController-master(2)/NEWSuperCapacitorController-master/Core/Inc/Calibration.hpp", Line=0
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=0, w=437, h=1190, TabPos=0, TopOfStack=1, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=0, y=0, w=345, h=176, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x0
+OpenWindow="Watched Data 1", DockArea=RIGHT, x=0, y=0, w=1284, h=1221, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Instruction Trace", DockArea=LEFT, x=0, y=0, w=437, h=1190, TabPos=1, TopOfStack=0, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=BOTTOM, x=1, y=0, w=1172, h=176, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=BOTTOM, x=2, y=0, w=1041, h=176, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor="Cursor Movable", TimePerDiv="2 s / Div", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="365;0", DataGraphShowNamesAtCursor=0, PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="529;-109", CodeGraphLegendShown=0, CodeGraphLegendPosition="549;-25"
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" tempData.outputDuty";" debug_deltaVoltage";" debug_deltaCurrent";" SampleManager::adcVA.sum"], ColWidths=[100;100;100;100;100;100]
+TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[118;252;235;269;235;252;164;252;235]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh";"Access"], ColWidths=[753;234;92;205;116]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="Source Files", SortCol="Path", SortOrder="DESCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[271;100;753;122;2156]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;366]
+WatchedExpression="SampleManager::adcIA.sum", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="SampleManager::adcIReferee.sum", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="SampleManager::adcVA.sum", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="SampleManager::adcIB.sum", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="SampleManager::adcVB.sum", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="errorCheckData.currentError", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="Status::status.errorCode", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="Status::status.outputEnabled", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="SampleManager::ProcessedData::processedData.vASide", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="SampleManager::ProcessedData::processedData.vBSide", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="SampleManager::ProcessedData::processedData.iASide", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="SampleManager::ProcessedData::processedData.iBSide", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="SampleManager::ProcessedData::processedData.iReferee", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="ControlData::controlData.enableOutput", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="SampleManager::ProcessedData::processedData.efficiency", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="tempData.outputDuty", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="SampleManager::ProcessedData::processedData.pASide", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="SampleManager::ProcessedData::processedData.efficiency", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="SampleManager::ProcessedData::processedData.pBSide", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="debug_deltaVoltage", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="debug_deltaCurrent", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="tempData.targetIA", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="debug_voltageLoopActive", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="debug_dutyDiffRatio", RefreshRate=2, Window=Watched Data 1
+WatchedExpression=" PowerManager::SampleManager::iAZeroSumDebug", RefreshRate=2, Window=Watched Data 1
